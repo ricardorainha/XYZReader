@@ -8,5 +8,9 @@
     <string name="action_share">Share</string>
 
     <string name="up">Up</string>
+    <string name="by_author">By %s</string>
+    <string name="mock_title">The Legend of Sleepy Hollow</string>
+    <string name="mock_author">By Washington Irving</string>
+    <string name="mock_date">1 de jan de 1820</string>
 
 </resources>
